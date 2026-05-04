@@ -45,9 +45,9 @@ pip install pynput Pillow
  
 1. Place `elsword_timers.py` in a folder of your choice
 2. Drop the three title icon images into the **same folder** as the script, named exactly:
-   - `Title_1840.png` — Freed Shadow icon
+   - `Title_2320.png` — Freed Shadow icon
    - `TITLE_2050.png` — Night Parade icon
-   - `TITLE_2320.png` — TSS icon
+   - `TITLE_1840.png` — TSS icon
 3. Run the script:
 ```bash
 python elsword_timers.py
